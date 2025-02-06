@@ -7,14 +7,14 @@ Files Description:
 ○ SignupDate: Date when the customer signed up.
 
 3. Products.csv
-4. 
+
 ○ ProductID: Unique identifier for each product.
 ○ ProductName: Name of the product.
 ○ Category: Product category.
 ○ Price: Product price in USD.
 
 6. Transactions.csv
-7. 
+ 
 ○ TransactionID: Unique identifier for each transaction.
 ○ CustomerID: ID of the customer who made the transaction.
 ○ ProductID: ID of the product sold.
